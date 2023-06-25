@@ -2,8 +2,9 @@
 ===================================
 **這裡是介紹文檔**
 這裡會給APCS練習題的答案以及解釋文檔
-以下是內容檢視
+
 Contents
 --------
 .. toctree::
-   Basic-Setting
+   How-to-install-APCS-env
+   How-to-register-codeforces
