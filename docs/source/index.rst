@@ -8,3 +8,4 @@ Contents
 .. toctree::
    How-to-install-APCS-env
    How-to-register-codeforces
+   Basic-Setting
