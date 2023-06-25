@@ -6,4 +6,4 @@
 Contents
 --------
 .. toctree::
-   How-to-install-APCS-env
+   Basic-Setting
