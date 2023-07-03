@@ -7,3 +7,4 @@ Contents
 --------
 .. toctree::
    Basic-Setting
+   DAY1.rst
